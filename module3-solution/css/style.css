@@ -1,0 +1,63 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.container {
+    border: none;
+    padding: 10px;
+}
+
+
+
+/* Header */
+#header-nav{
+    background-color: #c5aa6a;
+    border-radius: 0;
+    border: 0;
+    color: #fff;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+}
+
+.navbar-brand p{
+    font-size: 24px;
+    color: #951C49;
+}
+
+#nav-list a{
+    color: #951C49;
+}
+
+#nav-list a:hover{
+    background: #E7E7E7;
+}
+
+
+/*End Header*/
+
+
+/* Home Page */
+    #page-header {
+    margin-bottom: 25px;
+    color: #4cb7a5;
+}
+
+section {
+    border: 2px solid black;
+    height: 1000px;
+}
+
+.row {
+    
+    background-color: #4cb7a5;
+    margin: 10px auto;
+    width: 100%;
+}
+
+
+/* End Home Page */
